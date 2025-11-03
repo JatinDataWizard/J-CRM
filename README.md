@@ -1,6 +1,6 @@
 # J CRM - React App
 
-A simple CRM for managing leads generated from Meta ads.
+"A React-based CRM for generating leads via Meta ads.".
 
 ## Features
 - View leads dashboard
